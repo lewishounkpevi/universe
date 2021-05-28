@@ -1,0 +1,12 @@
+[
+  {
+    "package": "BeninStats",
+    "url": "https://github.com/lewishounkpevi/BeninStats",
+    "branch" : "master"
+  },
+  {
+    "package" : "vitefait",
+    "url" : "https://github.com/lewishounkpevi/vitefait",
+    "branch" : "master"
+  }
+]
